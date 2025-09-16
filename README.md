@@ -14,8 +14,3 @@ This project demonstrates a Physics-Informed Neural Network (PINN) solving the 1
 - **Initial Condition**: Uniform temperature  
 - **Network Input**: (x, t)  
 - **Loss**: PDE residual + boundary + initial condition errors
-
-## Usage
-1. Install dependencies:
-```bash
-
